@@ -41,7 +41,7 @@
     bspwm
     chromium
     git
-    nvim
+    neovim
     sxhkd
     zoom-us
   ];

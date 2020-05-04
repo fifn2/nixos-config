@@ -41,7 +41,9 @@
     bspwm
     chromium
     git
+    nvim
     sxhkd
+    zoom-us
   ];
 
   # Some programs need SUID wrappers, can be configured further or are

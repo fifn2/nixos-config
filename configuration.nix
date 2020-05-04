@@ -41,8 +41,6 @@
     bspwm
     chromium
     git
-    kitty
-    lightdm
     stow
     sxhkd
     yadm

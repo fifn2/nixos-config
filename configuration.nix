@@ -43,8 +43,10 @@
     dmenu
     chromium
     git
+    kitty
     neovim
     sxhkd
+    thunderbird
     zoom-us
   ];
 

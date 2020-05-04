@@ -2,6 +2,7 @@
 { config, pkgs, ... }:
 
 {
+  nixpkgs.config.allowUnfree = true;
   imports =
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
@@ -39,6 +40,7 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
     bspwm
+    dmenu
     chromium
     git
     neovim

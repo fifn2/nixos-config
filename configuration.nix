@@ -41,7 +41,6 @@
     bspwm
     chromium
     git
-    stow
     sxhkd
     yadm
   ];
